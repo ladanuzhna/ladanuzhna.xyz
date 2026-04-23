@@ -46,7 +46,7 @@ last_modified: 2024-11-02
 - Was rejected by every single American pharma when he pitched his process
 - Founded Syntex, S.A.. Left it 2 years later because he was bored
 
-**Marianna Rothblatt (United Tx)**
+**Martine Rothblatt (United Tx)**
 - Underwent gender transition in the mid-1990s
 - Motivated by her daughter Jenesis's diagnosis with pulmonary arterial hypertension, founded United Therapeutics in 1996
 - Ended up bringing to market several treatments for PAH
