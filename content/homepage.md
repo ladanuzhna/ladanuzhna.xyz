@@ -24,7 +24,7 @@ Through a weird sequence of flukes and butterfly effects, I got a chance to come
 
 Since 2024, I've been working on epigenetic editing therapeutics at [General Control](https://generalcontrol.inc/).
 
-Outside of work, the current topics of areas I am interested in:
+Outside of work, the current topics I am interested in:
 
 - Protein design - I tend to think that almost any problem in biology can be reframed in terms of proteins we need to design to solve it. I occasionally take on side quests like [binder design](https://x.com/ladanuzhna/status/2030326802074493327) (ongoing undisclosed project at GC) and [optogenetic polymerases](https://x.com/ladanuzhna/status/2000053839358197905)
 - Human artists re-earning their right-to-create in post-AI-art era - i.e., avenues in which art is distinguishably human (bas-reliefs have been my recent fascination)
