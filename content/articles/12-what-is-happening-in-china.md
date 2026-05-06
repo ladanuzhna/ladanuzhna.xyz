@@ -2,7 +2,7 @@
 title: "What the hell is happening in China?"
 date: 2026-05-06
 author: Лада Нужная
-slug: what-the-hell-is-happening-in-china
+slug: what-is-happening-in-china
 tags: []
 ---
 
