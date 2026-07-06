@@ -15,7 +15,7 @@ last_modified: 2024-11-02
 - After a number of high-profile labs figured that cloning is not as dangerous as they thought and started catching up, he still outcompeted them all
 
 **Robert Duggan (Pharmacyclics)**
-- Scientologist who only had experience with some tech and developing a recipe for Mcdonalds' cookies
+- Scientologist who only had experience with some tech and developing a recipe for McDonald's cookies
 - Started buying out stock of a biotech company that was literally about to get delisted
 - It didn't have anything viable in the pipeline and had no cash to develop new things
 - Got first-in-class drug approved years later (Imbruvica), selling the company for $21 billion to AbbVie
@@ -32,7 +32,7 @@ last_modified: 2024-11-02
 - The youngest person to ever get a Nobel prize
 
 **James Black (first beta blocker)**
-- Was in huge debts by the time he graduated
+- Was in huge debt by the time he graduated
 - Had to take a teaching job to make ends meet
 - Discovered the first beta blocker, propranolol, "the first agent to reduce blood pressure without diuretic effects"
 

@@ -18,9 +18,9 @@ My name is Lada. Most of the things I do in life can be explained through my sea
 - How did we get here?
 - How do we stay?
 
-I was born in Eastern Ukraine, in a small town of [Avdiivka](https://en.wikipedia.org/wiki/Avdiivka), and spent most of my life there. Growing up, I spent lots of my time studying chemistry and physics, trying to understand the world around me - only to realize that my life will never be enough to find the answers I am satisfied with. And so extending this time is the only thing that makes sense to me.
+I was born in Eastern Ukraine, in the small town of [Avdiivka](https://en.wikipedia.org/wiki/Avdiivka), and spent most of my life there. Growing up, I spent lots of my time studying chemistry and physics, trying to understand the world around me - only to realize that my life will never be enough to find the answers I am satisfied with. And so extending this time is the only thing that makes sense to me.
 
-Through a weird sequence of flukes and butterfly effects, I got a chance to come to the US to study physics & computer science at Northwestern. I later dropped out to do Thiel fellowship, co-founding [Impetus Grants](https://impetusgrants.org/). Through that work, we raised and allocated more than $34M for aging research, backing a lot of one-of-a-kind science and clinical trials in academia.
+Through a weird sequence of flukes and butterfly effects, I got a chance to come to the US to study physics & computer science at Northwestern. I later dropped out to do the Thiel Fellowship, co-founding [Impetus Grants](https://impetusgrants.org/). Through that work, we raised and allocated more than $34M for aging research, backing a lot of one-of-a-kind science and clinical trials in academia.
 
 Since 2024, I've been working on epigenetic editing therapeutics at [General Control](https://generalcontrol.inc/).
 
@@ -34,7 +34,7 @@ In general, I want to spend my life creating n=1 things that wouldn't exist if i
 
 I also believe that if something is worth doing, it's worth doing to an extreme.
 
-Twitter: [@LNuzhna](https://twitter.com/lnuzhna)
+Twitter: [@ladanuzhna](https://x.com/ladanuzhna)
 
 ## Writing
 
